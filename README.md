@@ -38,5 +38,5 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sibaprasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spm2011//)](https://www.linkedin.com/in/spmohanty/) [![Twitter Badge](https://img.shields.io/badge/-@Sibaprasad-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@dobest_x)](https://twitter.com/@dobest_x) 
-[![Instagram Badge](https://img.shields.io/badge/-@Sibaprasad-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Sibaprasad)](https://www.instagram.com/sibaprasad/)
+[![Instagram Badge](https://img.shields.io/badge/-@Sibaprasad-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/Sibaprasad)](https://www.instagram.com/siba.x.prasad/)
 [![Linkedin Badge](https://img.shields.io/badge/-Swasi.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://Sibaprasad/)](https://Sibaprasad/)
